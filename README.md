@@ -36,6 +36,7 @@ Atualmente, estou desenvolvendo minhas habilidades em testes manuais e automatiz
 ## 🎓 Certificações
 
 - [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pFwqn2pRQJSA7_foNk4vgw?identity__email=thais.dfmoreira%40gmail.com)
+- [Project Management & Agile Fundamentals](https://tinyurl.com/2pj7xk5d)
 
 ## 💡 Soft Skills que me fortalecem na área de QA:
 
