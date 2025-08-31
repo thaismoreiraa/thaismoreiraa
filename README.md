@@ -33,6 +33,9 @@ Atualmente, estou desenvolvendo minhas habilidades em testes manuais e automatiz
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
+## 🎓 Certificações
+
+- [Postman API Fundamentals Student Expert](https://badgr.com/public/assertions/pFwqn2pRQJSA7_foNk4vgw?identity__email=thais.dfmoreira%40gmail.com)
 
 ## 💡 Soft Skills que me fortalecem na área de QA:
 
